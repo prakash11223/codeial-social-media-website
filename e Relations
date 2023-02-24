@@ -1,0 +1,29 @@
+[33mcommit 9a2aa5f2fb1e734c13ed72171882848c8b5a4c8c[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+Author: Prakash kumar <prakashkumar11223@gmail.com>
+Date:   Wed Feb 17 21:43:00 2021 +0530
+
+    sig up code
+
+[33mcommit 883d2763dee76f383b96e87bb33399fa28005c61[m
+Author: Prakash kumar <prakashkumar11223@gmail.com>
+Date:   Wed Feb 10 22:37:39 2021 +0530
+
+    setup static file access for layout and pages
+
+[33mcommit baab26f1d0e4b0647afc45eb65d6d22f75ee8336[m
+Author: Prakash kumar <prakashkumar11223@gmail.com>
+Date:   Thu Feb 4 16:56:34 2021 +0530
+
+    set up views
+
+[33mcommit fea44190280400c384f6fbe7923277567be629f1[m
+Author: Prakash kumar <prakashkumar11223@gmail.com>
+Date:   Wed Feb 3 21:52:33 2021 +0530
+
+    add controller and router for home
+
+[33mcommit 2a6040b726b69d858337922013470eb1636aab46[m
+Author: Prakash kumar <prakashkumar11223@gmail.com>
+Date:   Sun Jan 31 17:54:17 2021 +0530
+
+    first commit:create the directory structure and setup express

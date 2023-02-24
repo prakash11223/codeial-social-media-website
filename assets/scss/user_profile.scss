@@ -1,0 +1,36 @@
+body {
+    background-color: lightblue;
+}
+
+#profile-container {
+    margin-left: 20%;
+    border: 5px solid white;
+    height: fit-content;
+    width: 50%;
+    img {
+        border-radius: 50%;
+        margin-left: 30%;
+    }
+    img:hover {
+        box-shadow: 0px 0px 6px 4px white;
+        transition: color 0.5s;
+    }
+    .user-name {
+        margin: auto;
+        margin-left: 20%;
+        color: whitesmoke;
+        font-size: 32px;
+        font-family: emoji;
+        font-weight: bold;
+        font-style: oblique
+    }
+    #updateform {
+        margin-left: 20%;
+        input {
+            background-color: rgb(74, 174, 207);
+            color: slateblue;
+            outline: none;
+            border: 2px solid white;
+        }
+    }
+}

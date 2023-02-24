@@ -1,0 +1,36 @@
+#logo {
+    display: flex;
+    flex-direction: row;
+    top: 0px;
+    width: 100vw;
+    height: 50px;
+    color: white;
+    background-color: blue;
+    justify-content: space-between;
+    align-items: center;
+    position: fixed;
+    h1 {
+        margin-left: 10px;
+    }
+    a {
+        color: white;
+    }
+    #profile-links {
+        display: flex;
+        flex-direction: row;
+        justify-content: space-around;
+        li {
+            margin-right: 20px;
+            list-style: none;
+            a {
+                color: white;
+                text-decoration: none;
+            }
+        }
+        img {
+            background-size: cover;
+            height: 25px;
+            width: auto;
+        }
+    }
+}
